@@ -1,7 +1,7 @@
 
 This is my first notepad file using Git.
 
-And this will also make commit to save changes into repository
+And this will also make commit to save changes into repository using few steps:
 
 Steps to follow to add file to git repository::
 Always use the git bash:
