@@ -11,3 +11,5 @@ In the git bash:
    git config --global user.email "value"
 given username and user.email
 4. git commit -a -m "Your commit message eg. Added steps for doing commit to ReadMe file"
+
+ghj
